@@ -26,7 +26,7 @@ alfred workflow: upload image to 'huawei cloud obs' from clipboard
   ${obs_folder}/obsutil ls
   ```
   3. Dowload and import alfred workflow
-  4. Config workflow ![env](http://img1.obs.cn-east-3.myhuaweicloud.com/1589854452.png) ![obs info](http://img1.obs.cn-east-3.myhuaweicloud.com/1589854995.png)
+  4. Config workflow ![env](http://img1.obs.cn-east-3.myhuaweicloud.com/1589854452.png) ![obs info](http://img1.obs.cn-east-3.myhuaweicloud.com/1589856164.png)
 
   5. Test
   
@@ -37,4 +37,6 @@ alfred workflow: upload image to 'huawei cloud obs' from clipboard
 
 ### Execute Process
 ![workflow_img](http://img1.obs.cn-east-3.myhuaweicloud.com/1589855560.png)
+
+
   
