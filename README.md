@@ -12,12 +12,12 @@ alfred workflow: upload image to 'huawei cloud obs' from clipboard
   3. obs bucket, endpoint, domain 
 
 ### Config steps:
-  1. dowload obsutil
+  1. Dowload obsutil
   ```
   wget https://obs-community.obs.cn-north-1.myhuaweicloud.com/obsutil/current/obsutil_darwin_amd64.tar.gz
   tar -zxvf obsutil_darwin_amd64.tar.gz
   ```
-  2. config obsutil
+  2. Config obsutil
   ```
   obs_folder=./obsutil_darwin_amd64_5.1.13
   chmod 755 ${obs_folder}/obsutil 
@@ -25,10 +25,13 @@ alfred workflow: upload image to 'huawei cloud obs' from clipboard
   # test connection
   ${obs_folder}/obsutil ls
   ```
-  3. dowload and import alfred workflow
-  4. config workflow [env](http://img1.obs.cn-east-3.myhuaweicloud.com/1589854452.png)[obs info](http://img1.obs.cn-east-3.myhuaweicloud.com/1589853006.png)
+  3. Dowload and import alfred workflow
+  4. Config workflow ![env](http://img1.obs.cn-east-3.myhuaweicloud.com/1589854452.png) ![obs info](http://img1.obs.cn-east-3.myhuaweicloud.com/1589853006.png)
 
-  5. test
+  5. Test
+    1. capture a picture
+    2. press option + C
+    3. paste a image url
   
 
 
