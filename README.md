@@ -2,14 +2,17 @@
 alfred workflow: upload image to 'huawei cloud obs' from clipboard
 
 ## Before use this workflow：
+
   1. Own huawei cloud account and real-name authenticated
   2. Own access key and access secret key
   3. Obs bucket (set obs bucket to 'public read' if use it for image bed purpose)
   
 ### Requirements:
+ 
   1. obstutil
   2. huawei cloud ak sk
   3. obs bucket, endpoint, domain 
+  4. Alfred
 
 ### Config steps:
   1. Dowload obsutil
@@ -26,7 +29,7 @@ alfred workflow: upload image to 'huawei cloud obs' from clipboard
   ${obs_folder}/obsutil ls
   ```
   3. Dowload and import alfred workflow
-  4. Config workflow ![env](http://img1.obs.cn-east-3.myhuaweicloud.com/1589854452.png) ![obs info](http://img1.obs.cn-east-3.myhuaweicloud.com/1589856164.png)
+  4. Config workflow ![env](http://img1.obs.cn-east-3.myhuaweicloud.com/1589853006.png) ![obs info](http://img1.obs.cn-east-3.myhuaweicloud.com/1589856164.png)
 
   5. Test
   
