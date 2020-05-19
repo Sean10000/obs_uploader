@@ -35,5 +35,6 @@ alfred workflow: upload image to 'huawei cloud obs' from clipboard
     3. paste a image url
   
 
-
+### Execute Process
+![workflow_img](http://img1.obs.cn-east-3.myhuaweicloud.com/1589855560.png)
   
