@@ -1,5 +1,5 @@
 # obs_uploader
-alfred workflow: upload image to 'huawei cloud obs' from clipboard
+alfred workflow: upload image to 'huawei cloud obs' from clipboard，copy the image url to clipboard.
 
 ## Before use this workflow：
 
